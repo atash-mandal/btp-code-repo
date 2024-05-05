@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: visualizer
+Version: 1.2.19
+Summary: This is a visualizer pkg
+Author: Atash Mandal
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scikit-microwave-design
+
+This
